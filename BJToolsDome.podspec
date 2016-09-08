@@ -1,5 +1,3 @@
-  s.name         = "BJToolsDome"
-  s.author             = { "包杰" => "bj13594123183@163.com" }
  Pod::Spec.new do |s|  
   s.name             = "BJToolsDomes"  
   s.version          = "0.0.1"  
@@ -8,7 +6,7 @@
                        It is a common net utils used on iOS, which implement by Objective-C.
 		       这是一个基于整个iOS项目的实用工具类，集合了很多第三方应用以及针对它的一些更加方便的封装，另外也有搜集一些简单实用的一些小型控件。笔者立志将其打造成一个在搭建一个新项目时首选的项目基础框架。该项目会持续更新和封装更多优秀的工具。
                          DESCRIPTION
-  s.homepage         = "https://github.com/wanney/ZWNetUtils"  
+  s.homepage         = "https://github.com/baojie199176/BJTools"  
   s.license          = 'MIT'  
   s.author             = { "包杰" => "bj13594123183@163.com" }
   s.source           = { :git=>"https://github.com/baojie199176/BJTools.git", :tag => s.version.to_s }  
