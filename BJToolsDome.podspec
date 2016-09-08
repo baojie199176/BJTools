@@ -1,6 +1,6 @@
  Pod::Spec.new do |s|  
   s.name             = "BJToolsDomes"  
-  s.version          = "0.0.1"  
+  s.version          = "0.0.2"  
   s.summary          = "A Common Net Utils used on iOS."  
   s.description      = <<-DESCRIPTION  
                        It is a common net utils used on iOS, which implement by Objective-C.
